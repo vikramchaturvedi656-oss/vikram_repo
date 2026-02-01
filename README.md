@@ -1,4 +1,5 @@
 # vikram_repo
 This is my first Git repositry 
 <br>
-Author- Vikram Kumar Chaturvedi
+
+Author- Vikram Kumar Chaturvedi student of Sharda University
